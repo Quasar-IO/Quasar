@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: linear-gradient(
+    to bottom, 
+    #0b0c10 50%,
+    #2a0a37 100%
+  );
+  overflow: hidden;
+}
